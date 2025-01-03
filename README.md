@@ -58,7 +58,7 @@
 - we dont want to learn kafka, raabit mq these are tools/applications, mainly understand what is a messaging system, why did we build it.
 
 ## API Web Frameworks
-- Node JS, Express JS, Django all are webframeworks designed to make web apis, rest apis, grpc
+- Node JS, Express JS, Django all are web frameworks designed to make web apis, rest apis, grpc
 
 ## Message Formats
 - Protocol Buffers
